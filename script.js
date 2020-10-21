@@ -21,6 +21,7 @@ let c=1;
 		{ 
 
 			clearInterval(id);
+			alert("counter stopped");
 			return;
 		}
 	},1000);
@@ -38,6 +39,7 @@ let c=1;
 		{ 
 
 			clearInterval(id);
+			alert("counter stopped");
 			return;
 		}
 	},1000);
@@ -56,6 +58,7 @@ let c=1;
 		{ 
 
 			clearInterval(id);
+alert("counter stopped");
 			return;
 		}
 	},1000);
@@ -73,6 +76,7 @@ let c=1;
 		{ 
 
 			clearInterval(id);
+alert("counter stopped");
 			return;
 		}
 	},1000);
@@ -90,6 +94,7 @@ let c=1;
 		{ 
 
 			clearInterval(id);
+			alert("counter stopped");
 			return;
 		}
 	},1000);
