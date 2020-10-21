@@ -100,6 +100,7 @@ let c=1;
 	},1000);
 
 };
+// declaring animate function
 function animate(c){
 	if(c>0 && c<=9){
 	next.classList.add("trans");
